@@ -1,6 +1,6 @@
 ### Hello, stranger
 
-I'm Luiz Miguel, a passionate software developer with a love for technology, frontend development and performance. I currently work as a Software Developer at Getrak.
+I'm Miguel Oliveira, a passionate software developer with a love for technology, frontend development and performance. I currently work as a Software Developer at Getrak.
 With over 6 years of experience in the field, I've had the opportunity to work on various challenging projects and continuously enhance my skills across different technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizmo)
